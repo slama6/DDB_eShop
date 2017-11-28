@@ -1,0 +1,80 @@
+{
+    "_id": 0,
+    "Category_id": 0,
+    "Company":"Apple",
+    "Product_name": "Macbook PRO",
+    "Color": "Silver",
+    "Processor_family": "Intel",
+    "Processor_type":"Core i5 8420u",
+    "Ram":8,
+    "Hdd":256,
+    "Weight":1.2,
+    "Screen":13.3,
+    "Os": 10.12,
+    "Battery":12,
+    "Year":2017,
+    "Ports":[
+        {
+            "Type_name":"USB",
+            "Port_count":0
+        },
+        {
+            "Type_name":"HDMI",
+            "Port_count":0
+        },
+        {
+            "Type_name":"Audio",
+            "Port_count":1
+        },
+        {
+            "Type_name":"USB-C",
+            "Port_count":2
+        },
+        {
+            "Type_name":"Thunderbolt",
+            "Port_count":2
+        }
+    ],
+    "Price":1800,
+    "Image":"mbpro2017.jpg"
+}
+{
+    "_id": 1,
+    "Category_id": 0,
+    "Company":"Apple",
+    "Product_name": "Macbook PRO",
+    "Color": "Silver",
+    "Processor_family": "Intel",
+    "Processor_type":"Core i5 5420u",
+    "Ram":8,
+    "Hdd":128,
+    "Weight":1.5,
+    "Screen":13.3,
+    "Os": 10.11,
+    "Battery":9,
+    "Year":2015,
+    "Ports":[
+        {
+            "Type_name":"USB",
+            "Port_count":2
+        },
+        {
+            "Type_name":"HDMI",
+            "Port_count":1
+        },
+        {
+            "Type_name":"Audio",
+            "Port_count":1
+        },
+        {
+            "Type_name":"USB-C",
+            "Port_count":0
+        },
+        {
+            "Type_name":"Thunderbolt",
+            "Port_count":1
+        }
+    ],
+    "Price":1300,
+    "Image":"mbpro2015.jpg"
+}
