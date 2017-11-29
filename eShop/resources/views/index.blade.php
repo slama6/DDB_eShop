@@ -2,7 +2,10 @@
 <html lang="en">
 
   <head>
-
+    <?php
+        $users = DB::connection('mongodb')->DB::collection('hello')->get();
+        print($users);
+    ?>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
