@@ -1,4 +1,6 @@
-{"_id": 0,"Name": "Notebook"}
-{"_id": 1,"Name": "Phone"}
-{"_id": 2,"Name": "Photo"}
-{"_id": 3, "Name": "Television"}
+[
+	{"_id": 0,"Name": "Notebook"},
+	{"_id": 1,"Name": "Phone"},
+	{"_id": 2,"Name": "Camera"},
+	{"_id": 3, "Name": "Television"}
+]
